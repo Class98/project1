@@ -1,0 +1,28 @@
+*{margin: 0;padding: 0;}
+header{min-height: 400px;background-image: url(../image/Windows-7-turbina-abstracta-kostenlose-wallpapers.jpg);background-size: cover; background-position: center; background-repeat: no-repeat;opacity:.9;transition: 1s; text-align: center;color: white;
+background-attachment: fixed; font-size: 15px;}
+header:hover{opacity:1.6; }
+
+.top_menu{ background-color: transparent;}
+.top_menu ul{list-style: none;}
+.top_menu ul li{display: inline-block;}
+.top_menu ul li a{color: white; text-decoration: none;font-size: 15px; padding: 0px 40px; display: block;}
+.top_menu ul li a:hover{color: cornflowerblue;}
+big{font-size: 42px;}
+header p{ width: 50%; margin: 0 auto;}
+header button{height: 30px; width: 10%; background-color: green;border-radius: 12px;color: white;border: none;}
+.main_body{background-color: lightgray;min-height: 440px;text-align: center; color: #47484B; font-size: 16px;}
+.gallery{
+    width: 75%; margin:0 auto;min-height: 300px;
+}
+.product{min-height: 280px; float: left; width: 25%; margin: 2% 4.1%; color:#47484B;}
+.product img{height: 165px;width: 100%; }
+footer{min-height: 500px; text-align: center;}
+.wrapper{width: 90%; min-height:300px; margin: 0 auto;}
+.last_menu{height: 100px;width: 40%; margin: 5%;float: left;}
+.image{height: 100px; width: 20%;float: left;}
+.text{height: 100%; width: 70%;margin-left: 5%;float:right;padding:15px 10px; display: block;}
+.image img{height: 100px;width:100px;}
+pre{text-align: left; color: red;}
+social{ float: right; margin-right: 5%;}
+social a img{height: 30px; width: 30px;}
